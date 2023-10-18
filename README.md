@@ -14,6 +14,7 @@ Sales Trend Analysis for Brick & Mortar Business | Power BI | SQL
 Data cleaning using - Mysql
 
 Queries:
+
 use sales;
 select sum(transactions.sales_amount) from transactions
 join date
@@ -45,9 +46,15 @@ where year = '2020' and month_name = 'January' and (currency = 'INR\r' or curren
 ---------------------------------------------------------------------------------------------
 
 Different DAX Functions - Power BI
+
 SUM()
+
 DIVIDE()
+
 CALCULATE()
+
 GENERATESERIES()
+
 SELECTDVALUE()
+
 These are the differnt DAX functions used to measure data.
