@@ -1,6 +1,7 @@
 # SQL-Power-BI-Dashboard-Project
 
 KEY INSIGHTS:
+
 Sales Trend Analysis for Brick & Mortar Business | Power BI | SQL
 
 •	Designed a comprehensive Power BI sales insights dashboard for Atliq hardware, using SQL for data manipulation.
